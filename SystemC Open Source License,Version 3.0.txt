@@ -1,0 +1,2 @@
+This license requires all recipients to proactively help the licensor enforce its trademarks. This is an unreasonable condition to place on users' rights, so the license is nonfree. It also has other practical problems: some of the requirements are vague, and it uses the term “intellectual property”.
+Despite the name, it is not clear whether this license would qualify as “open source”. However, our judgment of it is not based on that.

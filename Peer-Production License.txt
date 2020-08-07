@@ -1,0 +1,2 @@
+The Peer-Production License is not a free software license because it restricts who can redistribute the program and for what purpose. It also does not give anyone permission to run the program.
+The PPL has several provisions designed specifically for artistic performances, and we have nothing against its use for art works; however, people reportedly advocate its use for software too. The PPL should not be used for software, manuals, or other works that ought to be free.

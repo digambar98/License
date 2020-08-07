@@ -1,0 +1,2 @@
+)
+The Personal Public License Version 3a is a nonfree license because it denies some users (organizations, governments, businesses) the four freedoms.

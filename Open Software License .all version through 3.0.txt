@@ -1,0 +1,4 @@
+The Open Software License is a free software license. It is incompatible with the GNU GPL in several ways.
+Recent versions of the Open Software License have a term which requires distributors to try to obtain explicit assent to the license. This means that distributing OSL software on ordinary FTP sites, sending patches to ordinary mailing lists, or storing the software in an ordinary version control system, is arguably a violation of the license and would subject you to possible termination of the license. Thus, the Open Software License makes it very difficult to develop software using the ordinary tools of free software development. For this reason, and because it is incompatible with the GPL, we recommend that no version of the OSL be used for any software.
+We urge you not to use the Open Software License for software you write. However, there is no reason to avoid running programs that have been released under this license.
+OpenSSL license

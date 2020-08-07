@@ -1,0 +1,1 @@
+This license is identical to the Yahoo! Public License 1.1, except that the license is provided by VMWare instead of Yahoo!. Our comments there apply here as well; this is a GPL-incompatible, partial copyleft free software license.

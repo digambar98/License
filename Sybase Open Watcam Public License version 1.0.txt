@@ -1,0 +1,1 @@
+This is not a free software license. It requires you to publish the source code publicly whenever you “Deploy” the covered software, and “Deploy” is defined to include many kinds of private use.

@@ -1,0 +1,2 @@
+This is a lax permissive non-copyleft free software license, compatible with the GNU GPL.
+We do not recommend this license. If you want a lax permissive license for a small program, we recommend the X11 license. A larger program usually ought to be copyleft; but if you are set on using a lax permissive license for one, we recommend the Apache 2.0 license since it protects users from patent treachery.

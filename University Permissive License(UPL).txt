@@ -1,0 +1,1 @@
+This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL. The license does provide the ability to license patents along with the software work, however, we still recommend the Apache 2.0 license for avoiding patent treachery when choosing to put your work under a lax license.

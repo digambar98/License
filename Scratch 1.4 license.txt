@@ -1,0 +1,3 @@
+This is not a free software license because it does not allow commercial redistribution. In addition, condition 4 substantively restricts the functionality of modified versions.
+Newer versions Scratch software are distributed under the GNU GPL, but some of those newer version we do not recommend, because they depend on the proprietary software, Adobe Air.
+Simple Machines License

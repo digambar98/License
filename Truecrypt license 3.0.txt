@@ -1,0 +1,2 @@
+This license is nonfree for several reasons. It says that if you don't understand the license you may not use the program. It puts conditions on allowing others to run your copy. It puts conditions on separate programs that “depend on” Truecrypt. The trademark condition applies to “associated materials”.
+There are other points in the license which seem perhaps unacceptable, and in our uncertainty about them we delayed in posting our evaluation. We have posted it now to explain why we do not mourn the demise of Truecrypt. There are free programs that do the same job

@@ -1,0 +1,12 @@
+The WxWidgets license is a GPL-compatible free software license. It consists of the GNU Lesser GPL 2.0 or any later version, plus an additional permission allowing binary distributions that use the library to be licensed under terms of the distributor's choice (including proprietary). It is a weak copyleft, even weaker than the LGPL, so we recommend it An older name for the WxWidgets Library license.
+X11 License (#X11License)
+This is a lax permissive non-copyleft free software license, compatible with the GNU GPL. Older versions of XFree86 used the same license, and some of the current variants of XFree86 also do. Later versions of XFree86 are distributed under the XFree86 1.1 license.
+Some people call this license “the MIT License,” but that term is misleading, since MIT has used many licenses for software. It is also ambiguous, since the same people also call the Expat license “the MIT License,” failing to distinguish them. We recommend not using the term “MIT License.”
+This is a fine license for a small program. A larger program usually ought to be copyleft; but if you are set on a lax permissive license for one, we recommend the Apache 2.0 license since it protects users from patent treachery.
+XFree86 1.1 License (#XFree861.1License)
+This is a lax, permissive non-copyleft free software license, compatible with version 3 of the GPL.
+Please note that this license is incompatible with version 2 of the GPL, because of its requirements that apply to all documentation in the distribution that contain acknowledgements.
+There are currently several variants of XFree86, and only some of them use this license. Some continue to use the X11 license.
+License of ZLib (#ZLib)
+This is a free software license, and compatible with the GPL.
+Zope Public License, versions 2.0 and 2.1

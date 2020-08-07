@@ -1,0 +1,2 @@
+This is not a free software license; it lacks essential freedoms such as publication of modified versions. Please don't use this license, and we urge you to avoid any software that has been released under it.
+Sun Solaris Source Code (Foundation Release) License, Version 1.1

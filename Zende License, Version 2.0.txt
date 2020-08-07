@@ -1,0 +1,2 @@
+This license is used by one part of PHP4. It is a non-copyleft free software license which is incompatible with the GNU GPL, and has practical problems like those of the original BSD license.
+We recommend that you not use this license for anything you write.

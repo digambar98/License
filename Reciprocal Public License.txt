@@ -1,0 +1,1 @@
+The Reciprocal Public License is a nonfree license because of three problems. 1. It puts limits on prices charged for an initial copy. 2. It requires notification of the original developer for publication of a modified version. 3. It requires publication of any modified version that an organization uses, even privately.

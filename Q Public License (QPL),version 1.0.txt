@@ -1,0 +1,9 @@
+This is a non-copyleft free software license which is incompatible with the GNU GPL. It also causes major practical inconvenience, because modified sources can only be distributed as patches.
+We recommend that you avoid using the QPL for anything that you write, and use QPL-covered software packages only when absolutely necessary. However, this avoidance no longer applies to Qt itself, since Qt is now also released under the GNU GPL.
+Since the QPL is incompatible with the GNU GPL, you cannot take a GPL-covered program and QPL-covered program and link them together, no matter how.
+However, if you have written a program that uses QPL-covered library (called FOO), and you want to release your program under the GNU GPL, you can easily do that. You can resolve the conflict for your program by adding a notice like this to it:
+  As a special exception, you have permission to link this program
+  with the FOO library and distribute executables, as long as you
+  follow the requirements of the GNU GPL in regard to all of the
+  software in the executable aside from FOO.
+You can do this, legally, if you are the copyright holder for the program. Add it in the source files, after the notice that says the program is covered by the GNU GPL.

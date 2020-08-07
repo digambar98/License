@@ -1,0 +1,4 @@
+This license is also sometimes called the “4-clause BSD license”.
+This is a lax, permissive non-copyleft free software license with a serious flaw: the “obnoxious BSD advertising clause”. The flaw is not fatal; that is, it does not render the software nonfree. But it does cause practical problems, including incompatibility with the GNU GPL.
+We urge you not to use the original BSD license for software you write. If you want to use a lax, permissive non-copyleft free software license, it is much better to use the modified BSD license, the X11 license or the Expat license. Even better, for a substantial program, use the Apache 2.0 license since it takes action against patent treachery.
+However, there is no reason not to use programs that have been released under the original BSD license.

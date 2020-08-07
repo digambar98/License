@@ -1,0 +1,2 @@
+)
+This is a permissive non-copyleft free software license that is compatible with the GNU GPL

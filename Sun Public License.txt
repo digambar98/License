@@ -1,0 +1,1 @@
+This is essentially the same as the Mozilla Public License version 1: a free software license incompatible with the GNU GPL. Please do not confuse this with the Sun Community Source License, which is not a free software license.

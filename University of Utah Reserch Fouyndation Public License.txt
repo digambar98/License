@@ -1,0 +1,4 @@
+The University of Utah Research Foundation Public License is a nonfree license because it does not allow commercial redistribution. It also purports to restrict commercially running the software and even commercially giving consultation about it. Those restrictions are probably not legally enforceable under US copyright law, but they might be in some countries; even asserting them is outrageous.
+The use of this license by the University of Utah exemplifies a dangerous trend for universities to restrict knowledge rather than contributing it to the public.
+If a university tries to impose a license like this on the software you are writing, don't give up hope. With persistence and firmness, and some forethought, it is possible to prevail over money-grabbing university administrators.
+The earlier you raise the issue, the better.

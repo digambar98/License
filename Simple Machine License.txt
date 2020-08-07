@@ -1,0 +1,4 @@
+Despite the name, this is a software license, and it's nonfree for several reasons:
+?	You must get the licensor's permission before distributing the software.
+?	You cannot sell copies of the software.
+?	It's possible that your license can be terminated if you received the software from someone who did not obey the license's terms.
