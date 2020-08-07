@@ -1,0 +1,2 @@
+The CeCILL-B is a free software license. It is incompatible with the GPL because it has requirements that are not present in the GPL. The credit requirements in section 5.3.4 exceed those of the GPL. It also has a strange requirement that you use your “best efforts” to get third parties to agree “to comply with the obligations set forth in this Article.”
+Please do not release software under this license.

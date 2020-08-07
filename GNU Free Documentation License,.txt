@@ -1,0 +1,1 @@
+The GNU FDL is recommended for textbooks and teaching materials for all topics. (“Documentation” simply means textbooks and other teaching materials for using equipment or software.) We also recommend the GNU FDL for dictionaries, encyclopedias, and any other works that provide information for practical use.

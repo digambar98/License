@@ -1,0 +1,4 @@
+The original Squeak license, as applied to software, is not a free software license because it requires all users in whatever country to obey US export control laws. As applied to fonts, it also does not permit modification.
+In addition, it has a requirement for users to indemnify the developer, which is enough to make many users think twice about using it at all.
+Recent versions of Squeak (from 4.0 on) are released under an Expat-style License with some portions of the code under the Apache License 2.0.
+Sun Community Source License

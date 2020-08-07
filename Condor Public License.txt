@@ -1,0 +1,2 @@
+Recent versions of Condor (from 6.9.5 on) are released under the Apache License 2.0. Only older versions of Condor use this license.
+The Condor Public License is a free software license. It has a couple of requirements that make it incompatible with the GNU GPL, including strong restrictions on the use of Condor-related names, and requires redistributors to “represent and warrant” that they will comply with United States export laws. (If it made compliance an actual condition of the license, it would not be a free software license.)

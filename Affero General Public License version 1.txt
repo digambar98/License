@@ -1,0 +1,2 @@
+The Affero General Public License is a free software license, copyleft, and incompatible with the GNU GPL. It consists of the GNU GPL version 2, with one additional section that Affero added with FSF approval. The new section, 2(d), covers the distribution of application programs through web services or computer networks.
+This license has been succeeded by the GNU Affero General Public License version 3; please use that instead.

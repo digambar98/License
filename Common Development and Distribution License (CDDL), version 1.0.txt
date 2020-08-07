@@ -1,0 +1,3 @@
+This is a free software license. It has a weak per-file copyleft (like version 1 of the Mozilla Public License) which makes it incompatible with the GNU GPL. This means a module covered by the GPL and a module covered by the CDDL cannot legally be linked together. We urge you not to use the CDDL for this reason.
+For an illustrative example of why you should not combine CDDL-licensed works with the GPL-licensed works, see the FSF's statement, Interpreting, enforcing and changing the GNU GPL, as applied to combining Linux and ZFS.
+Also unfortunate in the CDDL is its use of the term “intellectual property

@@ -1,0 +1,2 @@
+The CeCILL-C is a free software license with a weak copyleft somewhat like the GNU Lesser General Public License. It is incompatible with the GNU GPL because it does not contain the explicit GPL-compatibility clause of the basic CeCILL.
+Please do not release software under this license.

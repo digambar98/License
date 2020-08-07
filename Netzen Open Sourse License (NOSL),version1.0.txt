@@ -1,0 +1,1 @@
+This is a free software license that is essentially the same as the Mozilla Public License version 1.1. Like the MPL, the NOSL has some complex restrictions that make it incompatible with the GNU GPL. That is, a module covered by the GPL and a module covered by the NOSL cannot legally be linked together. We urge you not to use the NOSL for this reason.

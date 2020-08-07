@@ -1,0 +1,1 @@
+The lha license must be considered nonfree because it is so vague that you cannot be sure what permissions you have.

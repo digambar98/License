@@ -1,0 +1,1 @@
+This license is a free software license, compatible with the GPL. It is the minimal set of changes needed to correct the vagueness of the Artistic License 1.0

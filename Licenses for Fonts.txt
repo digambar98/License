@@ -1,0 +1,12 @@
+The licenses below apply to an instantiation of a design in a computer file, not the artistic design. As far as we know, an implementation of a design is always copyrightable. The legal status of the artistic design is complex, and varies by jurisdiction.
+GNU General Public License (#GPLFonts)
+The GNU GPL can be used for fonts. However, note that it does not permit embedding the font in a document unless that document is also licensed under the GPL. If you want to allow this, use the font exception. See also this explanatory essay about the GPL Font Exception.
+Arphic Public License (#Arphic)
+This is a copyleft free software license, incompatible with the GPL. Its normal use is for fonts, and in that use, the incompatibility does not cause a problem.
+License of the ec fonts for LaTeX (#ecfonts)
+This license covers the European Computer Modern Fonts and Text Companion Fonts, commonly used with LaTeX. Depending on how it is used, it may be free or not. If the package says that some fonts in the package may not be modified, then the package is nonfree. Otherwise the package is free. The original fonts have no restrictions on modification, so they are free.
+Much like the LaTeX Project Public License 1.2, this license requires modified versions of the work to use a name that's different from the name of any prior version. This is acceptable for work meant to be used with LaTeX, since TeX allows you to create filename mappings for your programs, but it's very annoying and could be overly burdensome in other contexts.
+IPA Font License (#IPAFONT)
+This is a copyleft free software license, incompatible with the GPL. It has an unfortunate condition requiring that derivative works not use or include the name of the original work as a program name, font name or file name. This is acceptable for fonts as fonts can be aliased or renamed using free software tools, but it's very annoying and could be overly burdensome in other contexts.
+SIL Open Font License 1.1 (#SILOFL)
+The Open Font License (including its original release, version 1.0) is a free copyleft license for fonts. Its only unusual requirement is that when selling the font, you must redistribute it bundled with some software, rather than alone. Since a simple Hello World program will satisfy the requirement, it is harmless. Neither we nor SIL recommend the use of this license for anything other than fonts.

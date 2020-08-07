@@ -1,0 +1,1 @@
+This is a free software license, but incompatible with the GPL, for the same reasons as the Jabber Open Source License

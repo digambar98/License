@@ -1,0 +1,7 @@
+This is not a free software license; it has several fatal flaws.
+?	One can't redistribute anything less than the whole program libOVR.
+?	One's distribution rights can be terminated on vague conditions.
+?	Those who make modified versions are required to send them to Oculus on demand.
+?	Use is allowed only with their product.
+?	New license versions totally supplant old versions, which means that permissions already given can be withdrawn.
+There might be additional fatal flaws; after seeing this many, we stopped looking for more.

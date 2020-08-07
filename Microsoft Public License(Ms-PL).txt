@@ -1,0 +1,1 @@
+This is a free software license; it has a copyleft that is not strong, but incompatible with the GNU GPL. We urge you not to use the Ms-PL for this reason.

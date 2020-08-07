@@ -1,0 +1,4 @@
+The GPL-PA (whose original name in Portuguese is “Licença Pública Geral para Administração Pública”) is nonfree for several reasons:
+?	It permits use only in “normal circumstances”.
+?	It does not allow distribution of source code without binaries.
+?	Its permissions lapse after 50 years.

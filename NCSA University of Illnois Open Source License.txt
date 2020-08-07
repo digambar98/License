@@ -1,0 +1,1 @@
+This license is based on the terms of the Expat and modified BSD licenses. It is a lax, permissive non-copyleft free software license, compatible with the GNU GPL.

@@ -1,0 +1,1 @@
+The Eclipse Public License is similar to the Common Public License, and our comments on the CPL apply equally to the EPL. The only change is that the EPL removes the broader patent retaliation language regarding patent infringement suits specifically against Contributors to the EPL'd program.

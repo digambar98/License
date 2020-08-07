@@ -1,0 +1,1 @@
+This is the previous version of the LGPL: a free software license, but not a strong copyleft license, because it permits linking with nonfree modules. It is compatible with GPLv2 and GPLv3. We generally recommend the latest version of the LGPL, for special circumstances only. 

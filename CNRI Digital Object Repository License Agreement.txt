@@ -1,0 +1,1 @@
+This license is non-free because of Article 3, which arguably includes a requirement not to violate the license of any program that the user runs—even proprietary programs.

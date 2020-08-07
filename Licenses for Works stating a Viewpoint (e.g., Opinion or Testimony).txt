@@ -1,0 +1,6 @@
+Works that express someone's opinion—memoirs, editorials, and so on—serve a fundamentally different purpose than works for practical use like software and documentation. Because of this, we expect them to provide recipients with a different set of permissions: just the permission to copy and distribute the work verbatim. Richard Stallman discusses this frequently in his speeches.
+Because so many licenses meet these criteria, we cannot list them all. If you are looking for one to use yourself, however, there are two that we recommend:
+GNU Verbatim Copying License (#GNUVerbatim)
+This was the license used throughout the GNU web site for many years. It is very simple, and especially well-suited to written works.
+Creative Commons Attribution-NoDerivs 4.0 license (a.k.a. CC BY-ND) (#ccbynd)
+This is the license used throughout the GNU and FSF web sites. This license provides much the same permissions as our verbatim copying license, but it's much more detailed. We particularly recommend it for audio and/or video works of opinion. Previous versions of this license are also OK to use, but we do recommend upgrading to this version if you can. Please be specific about which Creative Commons license is being used.

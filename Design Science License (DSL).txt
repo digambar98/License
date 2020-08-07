@@ -1,0 +1,3 @@
+This is a free and copyleft license meant for general data. Please don't use it for software or documentation, since it is incompatible with the GNU GPL and with the GNU FDL; however, it is fine to use for other kinds of data.
+Free Art License (#FreeArt)
+This is a free and copyleft license meant for artistic works. It permits commercial distribution, as any free license must. It is a copyleft license because any larger work that includes part of the work you received must be released, as a whole, either under the same license or under a similar license that meets stated criteria. Please don't use it for software or documentation, since it is incompatible with the GNU GPL and with the GNU FDL.

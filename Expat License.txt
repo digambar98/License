@@ -1,0 +1,3 @@
+This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL.
+Some people call this license “the MIT License,” but that term is misleading, since MIT has used many licenses for software. It is also ambiguous, since the same people also call the X11 license “the MIT License,” failing to distinguish them. We recommend not using the term “MIT License.”
+For substantial programs it is better to use the Apache 2.0 license since it blocks patent treachery.

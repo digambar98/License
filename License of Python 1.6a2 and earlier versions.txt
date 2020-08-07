@@ -1,0 +1,2 @@
+)
+This is a free software license and is compatible with the GNU GPL. Please note, however, that newer versions of Python are under other 

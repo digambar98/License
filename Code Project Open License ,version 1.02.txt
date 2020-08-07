@@ -1,0 +1,4 @@
+The Code Project Open License is not a free software license. Section 5.6 restricts how you can use the work. Section 5.4 prohibits commercial distribution of the software by itself—and depending on how you read section 3.4, you may not have permission to distribute the software by itself at all.
+Commons Clause (#comclause)
+The “Commons Clause” is a nonfree license because it forbids selling copies of the program, and even running the program as part of implementing any commercial service. Adding insult to injury, it also twists the words “commons” and “sell.”
+We urge people to reject programs under this license and to develop free replacements. Where a previous version was available as free software, continuing development of that version is an option.

@@ -1,0 +1,2 @@
+This is the original BSD license with the advertising clause and another clause removed. (It is also sometimes called the “2-clause BSD license”.) It is a lax, permissive non-copyleft free software license, compatible with the GNU GPL.
+Our comments about the Modified BSD license apply to this license too.

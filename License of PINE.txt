@@ -1,0 +1,2 @@
+The license of PINE is not a free software license because it mostly prohibits the distribution of modified versions. It also restricts the media that can be used for selling copies.
+Please note that a successor to Pine, Alpine, is released under the Apache License, version 2.0.

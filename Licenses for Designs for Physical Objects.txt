@@ -1,0 +1,3 @@
+Circuits are meant for practical use, so circuit designs should carry a free license. We recommend releasing them under the GNU General Public License, version 3 or later. Version 3 was designed for such use.
+3D-printer plans for objects meant for practical use should also be free. We recommend the GNU GPL or one of the Creative Commons licenses that are free: CC-BY, CC-BY-SA, or CC0.
+3D-printer plans for decorative objects are artistic works; any of the Creative Commons licenses is ok for them.

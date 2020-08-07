@@ -1,0 +1,3 @@
+)
+This is a permissive non-copyleft free software license with a few requirements (in sections 4 and 5) that render it incompatible with the GNU GPL. Note that the latest version of OpenLDAP has a different license that is compatible with the GNU GPL.
+We urge you not to use the older OpenLDAP license for software you write. However, there is no reason to avoid running programs that have been released under this license

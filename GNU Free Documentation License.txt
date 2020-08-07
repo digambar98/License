@@ -1,0 +1,1 @@
+This is a license intended for use on copylefted free documentation. We plan to adopt it for all GNU manuals. It is also suitable for other kinds of useful works (such as textbooks and dictionaries, for instance). Its applicability is not limited to textual works (“books”).

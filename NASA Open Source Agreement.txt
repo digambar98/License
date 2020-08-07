@@ -1,0 +1,3 @@
+#NASA)
+The NASA Open Source Agreement, version 1.3, is not a free software license because it includes a provision requiring changes to be your “original creation”. Free software development depends on combining code from third parties, and the NASA license doesn't permit this.
+We urge you not to use this license. In addition, if you are a United States citizen, please write to NASA and call for the use of a truly free software license.

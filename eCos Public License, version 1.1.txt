@@ -1,0 +1,2 @@
+This was the old license of eCos. It is not a free software license, because it requires sending every published modified version to a specific initial developer. There are also some other words in this license whose meaning we're not sure of that might also be problematic.
+Today eCos is available under the GNU GPL with additional permission for linking with nonfree programs.

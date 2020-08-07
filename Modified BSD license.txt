@@ -1,0 +1,4 @@
+This is the original BSD license, modified by removal of the advertising clause. It is a lax, permissive non-copyleft free software license, compatible with the GNU GPL.
+This license is sometimes referred to as the 3-clause BSD license.
+The modified BSD license is not bad, as lax permissive licenses go, though the Apache 2.0 license is preferable. However, it is risky to recommend use of “the BSD license”, even for special cases such as small programs, because confusion could easily occur and lead to use of the flawed original BSD license. To avoid this risk, you can suggest the X11 license instead. The X11 license and the modified BSD license are more or less equivalent.
+However, the Apache 2.0 license is better for substantial programs, since it prevents patent treachery.

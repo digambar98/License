@@ -1,0 +1,1 @@
+This is a free software license, not a strong copyleft, and incompatible with the GNU GPL. It consists of the Mozilla Public License version 1.1 with an added clause that permits Netscape to use your added code even in their proprietary versions of the program. Of course, they do not give you permission to use their code in the analogous way. 

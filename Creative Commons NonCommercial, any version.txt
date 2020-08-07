@@ -1,0 +1,2 @@
+This license does not qualify as free, because there are restrictions on charging money for copies. Thus, we recommend you do not use this license for documentation.
+In addition, it has a drawback for any sort of work: when a modified version has many authors, in practice getting permission for commercial use from all of them would become infeasible.

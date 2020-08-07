@@ -1,0 +1,7 @@
+This is the latest version of the GNU GPL: a free software license, and a copyleft license.
+ We recommend it for most software packages.
+Please note that GPLv3 is not compatible with GPLv2 by itself. 
+However, most software released under GPLv2 allows you to use the terms of later versions of the GPL as well.
+ When this is the case, you can use the code under GPLv3 to make the desired combination.
+ 
+

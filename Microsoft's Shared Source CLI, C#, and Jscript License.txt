@@ -1,0 +1,2 @@
+This license does not permit commercial distribution, and only allows commercial use under certain circumstances.
+Microsoft has other licenses which it describes as “Shared Source”, some of which have different restrictions.

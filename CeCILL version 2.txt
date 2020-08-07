@@ -1,0 +1,3 @@
+The CeCILL is a free software license, explicitly compatible with the GNU GPL.
+The text of the CeCILL uses a couple of biased terms that ought to be avoided: “intellectual property” and “protection”; this decision was unfortunate, because reading the license tends to spread the presuppositions of those terms. However, this does not cause any particular problem for the programs released under the CeCILL.
+Section 9.4 of the CeCILL commits the program's developers to certain forms of cooperation with the users, if someone attacks the program with a patent. You might look at that as a problem for the developer; however, if you are sure you would want to cooperate with the users in those ways anyway, then it isn't a problem for you

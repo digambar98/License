@@ -1,0 +1,1 @@
+This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL. It is nearly identical to the FreeBSD (also called “2-clause BSD”) license.

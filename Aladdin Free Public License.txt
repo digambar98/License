@@ -1,0 +1,8 @@
+Despite its name, this is not a free software license because it does not allow charging for distribution, and largely prohibits simply packaging software licensed under it with anything for which a charge is made.
+Anti-996 License (#Anti-996)
+This is not a free software license. It places restrictions on the freedom to use the program for any purpose.
+Please do not use this license for your own software. We will avoid using software under this license, as we do all other nonfree software.
+Apple Public Source License (APSL), version 1.x (#apsl1)
+Versions 1.0, 1.1 and 1.2 are not free software licenses. Please don't use these licenses, and we urge you to avoid any software that has been released under them. Version 2.0 of the APSL is a free software license.
+Artistic License 1.0 (#ArtisticLicense)
+We cannot say that this is a free software license because it is too vague; some passages are too clever for their own good, and their meaning is not clear. We urge you to avoid using it, except as part of the disjunctive license of Perl.

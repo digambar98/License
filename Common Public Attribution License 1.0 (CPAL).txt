@@ -1,0 +1,1 @@
+This is a free software license. It is based on the Mozilla Public License version 1, and is incompatible with the GPL for the same reasons: it has several requirements for modified versions that do not exist in the GPL. It also requires you to publish the source of the program if you allow others to use it.

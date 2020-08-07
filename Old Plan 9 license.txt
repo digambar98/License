@@ -1,0 +1,2 @@
+This is not a free software license; it lacks essential freedoms such as the right to make and use private changes. Of course you should not use this license, and we urge you to avoid any software that has been released under it. A detailed discussion of this license is also available.
+In September 2002 it was observed that the published license for Plan 9 had been modified, adding more restrictions to it, although its date still said 09/20/00. However, a further license change in 2003 made Plan 9 free software.

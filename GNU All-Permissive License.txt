@@ -1,0 +1,2 @@
+This is a lax, permissive free software license, compatible with the GNU GPL, which we recommend GNU packages use for README and other small supporting files. All developers can feel free to use it in similar situations.
+Older versions of this license did not have the second sentence with the express warranty disclaimer. This same analysis applies to both versions.

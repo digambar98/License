@@ -1,0 +1,2 @@
+This is the latest version of the LGPL: a free software license, but not a strong copyleft license, because it permits linking with nonfree modules. It is compatible with GPLv3. We recommend it for special circumstances only.
+Please note that LGPLv3 is not compatible with GPLv2 by itself. However, most software released under GPLv2 allows you to use the terms of later versions of the GPL as well. When this is the case, you can use the code under GPLv3 to make the desired combination.

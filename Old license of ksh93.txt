@@ -1,0 +1,1 @@
+ksh93 used to be shipped with an original license that was not a free software license. One reason for this is that it required that all changes be sent to the developer.
